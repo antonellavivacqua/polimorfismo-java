@@ -18,7 +18,7 @@ El objetivo del sistema es simular la administración de un garaje que contiene 
 * **Sobrescritura de Métodos (`@Override`)**: Modificación del comportamiento del método `encender()` y `toString()` en cada clase hija para responder de manera personalizada.
 * **Colecciones Dinámicas (`ArrayList`)**: Uso de la API de colecciones de Java para almacenar de forma indexada elementos dentro de una estructura unificada (`Garage`).
 
-## 🚀 Cómo Ejecutar el Proyecto
+## Cómo Ejecutar el Proyecto
 
 Para compilar y correr esta práctica de forma local, se necesita tener instalado el Java Development Kit (JDK):
 
